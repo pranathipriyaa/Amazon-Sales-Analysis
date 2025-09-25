@@ -31,7 +31,7 @@
   <h3>Repository Structure</h3>
   <ul>
     <li><code>Amazon_Sales_Analysis.pbix</code> – Power BI report file</li>
-    <li><code>data/</code> – Sample dataset (CSV or Excel format)</li>
+    <li><code>Amazon_Combined_Data.xlsx/</code> – Sample dataset (CSV or Excel format)</li>
     <li><code>README.md</code> – Project documentation and usage guide</li>
   </ul>
 
